@@ -12,7 +12,7 @@
 
 ## [technicalTask](https://github.com/AndreevAA/beansup/tree/main/technicalTask)
 
-В документе приведены действия пользователя **Финфорт Р&Д** в формате утвержденного шаблона по всем моделям использования сервиса.
+В документе техническое задание на разработку на основе утвержденного [userStory](https://github.com/AndreevAA/beansup/blob/main/userStory/README.md) для **Финфорт Р&Д**..
 
 ## [userStory](https://github.com/AndreevAA/beansup/tree/main/userStory)
 
