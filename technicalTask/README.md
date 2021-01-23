@@ -253,8 +253,8 @@
 - Работает в браузере
 - Зарабатывайте на банках, не думайте о тарифах
 
-| ![landing_1](/technicalTask/assets/images/landing_1.png) | ![landing_1](/technicalTask/assets/images/landing_1.png) | ![landing_1](/technicalTask/assets/images/landing_1.png) |
-| ------ | ------ | ------ |
+| ![landing_1](/technicalTask/assets/images/landing_1.png) | ![landing_1](/technicalTask/assets/images/landing_2.png) | ![landing_1](/technicalTask/assets/images/landing_3.png) | ![landing_1](/technicalTask/assets/images/landing_4.png) | ![landing_1](/technicalTask/assets/images/landing_5.png) |
+| ------ | ------ | ------ | ------ | ------ |
 
 
 
