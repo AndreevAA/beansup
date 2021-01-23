@@ -270,6 +270,9 @@
 
 Ограничений по вводимым символам не предусмотрено.
 
+| ![landing_1](/technicalTask/assets/images/registration_1.png) |
+| ------ |
+
 ---
 
 # Авторизация
