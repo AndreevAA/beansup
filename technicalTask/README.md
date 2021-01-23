@@ -255,7 +255,7 @@
 
 | ![landing_1](/technicalTask/assets/images/landing_1.png) | ![landing_1](/technicalTask/assets/images/landing_1.png) | ![landing_1](/technicalTask/assets/images/landing_1.png) |
 | ------ | ------ | ------ |
-| ![landing_1](/technicalTask/assets/images/landing_1.png) | ![landing_1](/technicalTask/assets/images/landing_1.png) | ![landing_1](/technicalTask/assets/images/landing_1.png) |
+
 
 
 ---
